@@ -2,10 +2,10 @@
   "name": "parcel-project-template",
   "version": "2.0.0",
   "description": "",
-  "homepage": "https://AndreeaBartic.github.io/parcel-project-template",
+  "homepage": "https://florinfire80.github.io/weather-app-team-project-js",
   "scripts": {
     "start": "parcel src/*.html",
-    "build": "parcel build src/*.html --public-url /parcel-project-template/"
+    "build": "parcel build src/*.html --public-url /weather-app-team-project-js/"
   },
   "repository": {
     "type": "git",
